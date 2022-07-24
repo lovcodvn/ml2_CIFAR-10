@@ -13,7 +13,7 @@ CIFAR-10 dataset, which consists of 60,000 32x32 colour images in 10 classes, wi
 - Model 2. Build a deeper model using three hidden layers with number of neurons in (512, 256, 512) and the rectified linear unit as the activation function
 - Model 3. Build a deep model having 9 layers: (2 convoluted filter 2D + 1 Maxpooling) x 3, using l2 regularization and dropout
 
-Note: In the model 3, heavy regularization is applied to avoid over-fitting. Data augmentation is then applied to further improve model performance.
+Note: In the model 3, heavy regularizations are applied to avoid over-fitting. Data augmentation is then applied to further improve model performance.
 
 ## Hyper-parameters
 - Learning_rate = 0.001 #default learning rate
