@@ -25,6 +25,6 @@ Note: In the model 3, heavy regularizations are applied to avoid over-fitting. D
 Accuracy of my best model: 81.43% 
 
 ## Further improvements
-- Experiment other deep model architectures (e.g. VGG-16)
-- I have not finetuned hyper-parameters. The hyper-parameters are fixed in advance by a my friend to make the task more challenging for me. Thus, fine-tuning parameters will be highly likely to improve performance.
+- Experimenting with other deep model architectures (e.g. VGG-16)
+- Please note that in this project, I did not finetun hyper-parameters. Rather, the hyper-parameters are fixed in advance as a way to make the task more challenging for me. Thus, parameters fine-tuning will be highly likely to improve my model's performance.
 
