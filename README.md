@@ -26,5 +26,5 @@ Accuracy of my best model: 81.43%
 
 ## Further improvements
 - Experimenting with other deep model architectures (e.g. VGG-16)
-- Please note that in this project, I did not finetun hyper-parameters. Rather, the hyper-parameters are fixed in advance as a way to make the task more challenging for me. Thus, parameters fine-tuning will be highly likely to improve my model's performance.
+- Please note that in this project, I did not finetune hyper-parameters. Rather, the hyper-parameters are fixed in advance as a way to make the task more challenging for me. Thus, parameters fine-tuning will be highly likely to improve my model's performance.
 
